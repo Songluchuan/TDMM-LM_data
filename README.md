@@ -18,11 +18,9 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 [Link](https://yunlong10.github.io/MMPerspective/#leaderboard)
 
-## 📉 Statistics
+## 🔧 Tools
 
-![alt text](assets/radar.png)
-
-[Link](https://yunlong10.github.io/MMPerspective/#benchmark)
+We recommend using Smirk or other related facial tracking methdods to obtain the parameters.
 
 ## Data Curation Pipeline
 
