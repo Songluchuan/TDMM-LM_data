@@ -12,7 +12,7 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 
 
-## 🏆 Leaderboard
+## 📊 Video Dataset
 
 <!-- ![alt text](assets/tops.png) -->
 
