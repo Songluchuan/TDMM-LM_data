@@ -20,10 +20,10 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 ## 🔧 Tools
 
-\begin{itemize}
-    \item We recommend using **Smirk** or other facial tracking methods to extract the parameters. 
-    \item For convenience, we provide a [**batch processing script**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
-\end{itemize}
+• We recommend using **Smirk** or other facial tracking methods to extract the parameters. 
+
+• For convenience, we provide a [**batch processing script**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
+
 
 ## Data Curation Pipeline
 
