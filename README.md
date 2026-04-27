@@ -3,7 +3,7 @@
 [**🌐 Homepage**](https://songluchuan.github.io/TDMM-LM/) | [**🔬 Paper**](https://arxiv.org/abs/2603.16936) | [**👩‍💻 Code**](https://github.com/Songluchuan/TDMM-LM_data)
 
 ## TDMM-LM Dataset
-> TDMM-LM Dataset is a large-scale facial animation dataset synthesized with foundation generative models, comprising roughly 80 hours of face-centric video that spans a wide spectrum of emotions,  expressions, and head motions, with each clip paired with its text prompt and 3D facial parameters for training text-driven facial animation/understanding models..
+> TDMM-LM Dataset is a large-scale facial animation dataset synthesized with foundation generative models, comprising roughly 80 hours of face-centric video that spans a wide spectrum of emotions,  expressions, and head motions, with each clip paired with its text prompt and 3D facial parameters for training text-driven facial animation/understanding models.
 
 ![alt text](assets/TDMMLM.png)
 
