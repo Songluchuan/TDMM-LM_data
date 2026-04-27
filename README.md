@@ -23,7 +23,7 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 ## 📊 Video Dataset/Annotation [Part-2, \~10hr]
 
 
-• Coming Soon
+• Coming Soon [Synchronized with videos in Part-1]
 
 ## 🎵 Audios
 
