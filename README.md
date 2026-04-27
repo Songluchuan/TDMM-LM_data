@@ -12,11 +12,13 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 
 
-## 📊 Video Dataset/Annotation
+## 📊 Video Dataset/Annotation [Part-1]
 
 <!-- ![alt text](assets/tops.png) -->
 
-[Link](https://yunlong10.github.io/MMPerspective/#leaderboard)
+• 
+
+• Language Annotation: As shown in [**json file**](https://github.com/Songluchuan/TDMM-LM_data/blob/main/json/data_part1.json).
 
 ## 🔧 Tools
 
@@ -24,15 +26,6 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 • For convenience, we provide a [**batch processing script**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
 
-
-## Data Curation Pipeline
-
-
-![alt text](assets/data_pipeline.png)
-
-## 👀 Visualization Results
-
-![alt text](assets/diff.png)
 
 
 ## ✏️ Citation
