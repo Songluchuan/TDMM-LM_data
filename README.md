@@ -16,7 +16,7 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 <!-- ![alt text](assets/tops.png) -->
 
-• Videos Download: [**Google drive**](https://drive.google.com/drive/folders/11wWL6vWxxzHJMpSzYlA0uijJkCO10mLC?usp=sharing)
+• Videos Download: [**Google drive**](https://drive.google.com/drive/folders/11wWL6vWxxzHJMpSzYlA0uijJkCO10mLC?usp=sharing) (./download_gdrive_folder.sh)
 
 • Language Annotation: As shown in [**json file**](https://github.com/Songluchuan/TDMM-LM_data/blob/main/json/data_part1.json).
 
