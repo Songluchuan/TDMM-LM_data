@@ -31,10 +31,11 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 ## 🔧 Tools
 
-• We recommend using **Smirk** or other facial tracking methods to extract the parameters. 
+• We recommend using [**smirk**](https://github.com/georgeretsi/smirk) or other facial tracking methods to extract the parameters. 
 
-• For convenience, we provide a [**batch processing script**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
+• We provide a [**batch processing script by smirk**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
 
+• We provide a [**batch processing script by spectre**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
 
 
 ## ✏️ Citation
