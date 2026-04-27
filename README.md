@@ -39,9 +39,7 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 ## 🏋️ Training
 
-• [Text2Motion] Coming Soon.
-
-• [Motion Perception] Coming Soon.
+• [Text2Motion] Coming Soon...
 
 
 ## ✏️ Citation
