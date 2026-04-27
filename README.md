@@ -8,7 +8,7 @@
 ![alt text](assets/TDMMLM.png)
 
 
-MMPerspective enables researchers and practitioners to uncover the strengths, limitations, and potential areas for improvement in MLLMs, offering valuable insights into the challenges of understanding perspective geometry.
+Our dataset enables researchers and practitioners to uncover the strengths, limitations, and potential areas for improvement in text-driven facial animation/understaning models, offering valuable insights into the challenges of generating expressive and emotionally faithful facial behavior.
 
 
 
