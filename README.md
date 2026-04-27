@@ -12,7 +12,7 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 
 
-## 📊 Video Dataset/Annotation [Part-1]
+## 📊 Video Dataset/Annotation [Part-1, \~70hr]
 
 <!-- ![alt text](assets/tops.png) -->
 
