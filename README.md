@@ -14,7 +14,6 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 ## 📊 Video Dataset/Annotation [Part-1, \~70hr]
 
-<!-- ![alt text](assets/tops.png) -->
 
 • Videos Download: [**Google drive**](https://drive.google.com/drive/folders/11wWL6vWxxzHJMpSzYlA0uijJkCO10mLC?usp=sharing) (./download_gdrive_folder.sh)
 
