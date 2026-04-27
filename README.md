@@ -30,10 +30,10 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 ## ✏️ Citation
 ```bibtex
-@article{tang2025mmperspective,
-  title = {MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness},
-  author = {Tang, Yunlong and Liu, Pinxin and Feng, Mingqian and Tan, Zhangyun and Mao, Rui and Huang, Chao and Bi, Jing and Xiao, Yunzhong and Liang, Susan and Hua, Hang and Vosoughi, Ali and Song, Luchuan and Zhang, Zeliang and Xu, Chenliang},
-  journal = {arXiv preprint arXiv:2505.20426},
-  year = {2025}
+@article{song2026tdmm,
+  title={TDMM-LM: Bridging Facial Understanding and Animation via Language Models},
+  author={Song, Luchuan and Liu, Pinxin and Liu, Haiyang and Jin, Zhenchao and Tang, Yolo Yunlong and Xu, Zichong and Liang, Susan and Bi, Jing and Corso, Jason J and Xu, Chenliang},
+  journal={arXiv preprint arXiv:2603.16936},
+  year={2026}
 }
 ```
