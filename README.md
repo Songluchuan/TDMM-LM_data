@@ -35,7 +35,7 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 • We provide a [**batch processing script by smirk**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
 
-• We provide a [**batch processing script by spectre**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/smirk_inverse) as a reference. 
+• We provide a [**batch processing script by spectre**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/spectre_inverse) as a reference. 
 
 
 ## ✏️ Citation
