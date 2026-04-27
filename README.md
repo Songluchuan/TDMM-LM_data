@@ -1,11 +1,11 @@
 
-# ✨ MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness
-[**🌐 Homepage**](https://yunlong10.github.io/MMPerspective/) | [**🔬 Paper**](https://arxiv.org/abs/2505.20426) | [**👩‍💻 Code**](https://github.com/yunlong10/MMPerspective/blob/main/) | [**📊 Dataset**]() | [**📈 Evaluation**]() | [**🏆 Leaderboard**](https://yunlong10.github.io/MMPerspective/#leaderboard)
+# ✨ TDMM-LM: Bridging Facial Understanding and Animation via Language Models
+[**🌐 Homepage**](https://songluchuan.github.io/TDMM-LM/) | [**🔬 Paper**](https://arxiv.org/abs/2603.16936) | [**👩‍💻 Code**](https://github.com/Songluchuan/TDMM-LM_data)
 
-## What is MMPerspective?
-> MMPerspective is a comprehensive benchmark designed to systematically evaluate the understanding of perspective geometry by Multimodal Large Language Models (MLLMs). It comprises 10 diverse tasks across three key dimensions: Perspective Perception, Reasoning, and Robustness, with 2,711 real-world and synthetic image instances.
+## TDMM-LM Dataset
+> TDMM-LM Dataset is a large-scale facial animation dataset synthesized with foundation generative models, comprising roughly 80 hours of face-centric video that spans a wide spectrum of emotions,  expressions, and head motions, with each clip paired with its text prompt and 3D facial parameters for training text-driven facial animation/understanding models..
 
-![alt text](assets/mmperspective.png)
+![alt text](assets/TDMMLM.png)
 
 
 MMPerspective enables researchers and practitioners to uncover the strengths, limitations, and potential areas for improvement in MLLMs, offering valuable insights into the challenges of understanding perspective geometry.
