@@ -37,6 +37,12 @@ Our dataset enables researchers and practitioners to uncover the strengths, limi
 
 • We provide a [**batch processing script by spectre**](https://github.com/Songluchuan/TDMM-LM_data/tree/main/tools/spectre_inverse) as a reference. 
 
+## 🏋️ Training
+
+• [Text2Motion] Coming Soon.
+
+• [Motion Perception] Coming Soon.
+
 
 ## ✏️ Citation
 ```bibtex
